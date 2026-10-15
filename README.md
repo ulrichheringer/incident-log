@@ -1,6 +1,6 @@
-# Incident Log
+# Incident Log — JSON Log Search and Timelines
 
-[![Go](https://img.shields.io/badge/Go-1.23%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/) [![MIT License](https://img.shields.io/badge/License-MIT-007ec6.svg)](LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.23%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/) [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Search JSON Lines application logs and build a chronological incident timeline. Filter by service or severity, or search the full event text.
 
